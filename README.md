@@ -190,7 +190,7 @@ This project demonstrates a comprehensive approach to grammatical error correcti
 Key findings include:
 - **ML models** achieved moderate performance with POS features showing the best consistency.
 - **Transformer-based models**, especially **BART**, significantly outperformed others, achieving high BLEU and exact match scores.
-- **FLAN-T5** & **FLAN-T5**  also showed strong generalization capabilities while being lightweight and efficient.
+- **FLAN-T5**  also showed strong generalization capabilities while being lightweight and efficient.
 
 The study reinforces the effectiveness of pretrained transformer architectures for nuanced language correction tasks.
 
